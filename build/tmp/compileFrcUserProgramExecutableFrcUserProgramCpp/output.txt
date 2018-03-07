@@ -1,0 +1,4 @@
+See file:///home/bluepiggy49/ScissorLiftCode/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramExecutableFrcUserProgramCpp, see full log file:///home/bluepiggy49/ScissorLiftCode/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt.
